@@ -1,2 +1,3 @@
 # Hello-world
-Bootstrap en WordPress files van Taina
+Stuff voor Bootstrap en WordPress experimenten van Taina
+
